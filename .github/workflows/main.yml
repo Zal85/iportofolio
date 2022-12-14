@@ -15,5 +15,5 @@ jobs:
       uses: SamKirkland/FTP-Deploy-Action@4.3.3
       with:
         server: ftp.sitektif.com
-        username: person2@inovasipendidikan.com
+        username: person2@inovasipendidikanindonesia.com
         password: ${{ secrets.ftp_password }}
